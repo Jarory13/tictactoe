@@ -1,0 +1,9 @@
+How to play:
+
+Player 1 is the X.
+player 2 is the O.
+
+Please enter the number that corresponds to your desired move. 
+
+First to three in a row wins. If no one gets there, it's a draw.
+ 
